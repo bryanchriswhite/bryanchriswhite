@@ -16,30 +16,12 @@
     </picture>
   </a>
   <br/>
-  <table>
-    <tr>
-      <td>
-        <a href="https://work.episkopos.community/episkopos/postern" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://bryanchriswhite.com/assets/gitlab-card-postern-dark-1780402108151.svg" /><img alt="postern" src="https://bryanchriswhite.com/assets/gitlab-card-postern-light-1780402108151.svg" width="400" /></picture></a>
-      </td>
-      <td>
-        <a href="https://work.episkopos.community/episkopos/censer-backend" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://bryanchriswhite.com/assets/gitlab-card-censer-backend-dark-1780402108151.svg" /><img alt="censer-backend" src="https://bryanchriswhite.com/assets/gitlab-card-censer-backend-light-1780402108151.svg" width="400" /></picture></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://work.episkopos.community/episkopos/unveil" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://bryanchriswhite.com/assets/gitlab-card-unveil-dark-1780402108151.svg" /><img alt="unveil" src="https://bryanchriswhite.com/assets/gitlab-card-unveil-light-1780402108151.svg" width="400" /></picture></a>
-      </td>
-      <td>
-        <a href="https://work.episkopos.community/episkopos/trustless-agent-sdk" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://bryanchriswhite.com/assets/gitlab-card-trustless-agent-sdk-dark-1780402108151.svg" /><img alt="trustless-agent-sdk" src="https://bryanchriswhite.com/assets/gitlab-card-trustless-agent-sdk-light-1780402108151.svg" width="400" /></picture></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://work.episkopos.community/episkopos/community" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://bryanchriswhite.com/assets/gitlab-card-community-dark-1780402108151.svg" /><img alt="community" src="https://bryanchriswhite.com/assets/gitlab-card-community-light-1780402108151.svg" width="400" /></picture></a>
-      </td>
-      <td>
-        <a href="https://work.episkopos.community/episkopos/pocket-vni-publisher" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://bryanchriswhite.com/assets/gitlab-card-pocket-vni-publisher-dark-1780402108151.svg" /><img alt="pocket-vni-publisher" src="https://bryanchriswhite.com/assets/gitlab-card-pocket-vni-publisher-light-1780402108151.svg" width="400" /></picture></a>
-      </td>
-    </tr>
-  </table>
+  <div align="center">
+    <a href="https://work.episkopos.community/episkopos/postern" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://bryanchriswhite.com/assets/gitlab-card-postern-dark-1780402108151.svg" /><img alt="postern" src="https://bryanchriswhite.com/assets/gitlab-card-postern-light-1780402108151.svg" width="360" /></picture></a>
+    <a href="https://work.episkopos.community/episkopos/censer-backend" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://bryanchriswhite.com/assets/gitlab-card-censer-backend-dark-1780402108151.svg" /><img alt="censer-backend" src="https://bryanchriswhite.com/assets/gitlab-card-censer-backend-light-1780402108151.svg" width="360" /></picture></a>
+    <a href="https://work.episkopos.community/episkopos/unveil" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://bryanchriswhite.com/assets/gitlab-card-unveil-dark-1780402108151.svg" /><img alt="unveil" src="https://bryanchriswhite.com/assets/gitlab-card-unveil-light-1780402108151.svg" width="360" /></picture></a>
+    <a href="https://work.episkopos.community/episkopos/trustless-agent-sdk" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://bryanchriswhite.com/assets/gitlab-card-trustless-agent-sdk-dark-1780402108151.svg" /><img alt="trustless-agent-sdk" src="https://bryanchriswhite.com/assets/gitlab-card-trustless-agent-sdk-light-1780402108151.svg" width="360" /></picture></a>
+    <a href="https://work.episkopos.community/episkopos/community" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://bryanchriswhite.com/assets/gitlab-card-community-dark-1780402108151.svg" /><img alt="community" src="https://bryanchriswhite.com/assets/gitlab-card-community-light-1780402108151.svg" width="360" /></picture></a>
+    <a href="https://work.episkopos.community/episkopos/pocket-vni-publisher" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://bryanchriswhite.com/assets/gitlab-card-pocket-vni-publisher-dark-1780402108151.svg" /><img alt="pocket-vni-publisher" src="https://bryanchriswhite.com/assets/gitlab-card-pocket-vni-publisher-light-1780402108151.svg" width="360" /></picture></a>
+  </div>
 </section>
