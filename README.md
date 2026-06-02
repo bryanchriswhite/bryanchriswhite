@@ -9,10 +9,12 @@
     <img alt="activity-heatmap" src="https://bryanchriswhite.com/assets/activity-heatmap-light-1780400191728.svg" />
   </picture>
   <br/>
+  <a href="https://work.episkopos.community">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://bryanchriswhite.com/assets/gitlab-cards-header-dark-1780402108151.svg" />
-    <img alt="featured-gitlab-projects" src="https://bryanchriswhite.com/assets/gitlab-cards-header-light-1780402108151.svg" />
-  </picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://bryanchriswhite.com/assets/gitlab-cards-header-dark-1780402108151.svg" />
+      <img alt="featured-gitlab-projects" src="https://bryanchriswhite.com/assets/gitlab-cards-header-light-1780402108151.svg" />
+    </picture>
+  </a>
   <br/>
   <table>
     <tr>
