@@ -9,7 +9,7 @@
     <img alt="activity-heatmap" src="https://bryanchriswhite.com/assets/activity-heatmap-light-1792688248347.svg" />
   </picture>
   <br/>
-                  <a href="https://work.episkopos.community" target="_blank" rel="noopener noreferrer">
+                  <a href="https://work.episkopos.community/bryanchriswhite" target="_blank" rel="noopener noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://bryanchriswhite.com/assets/gitlab-cards-header-dark-1792672575551.svg" />
       <img alt="featured-gitlab-projects" src="https://bryanchriswhite.com/assets/gitlab-cards-header-light-1792672575551.svg" />
